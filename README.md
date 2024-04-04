@@ -2,4 +2,4 @@
 
 [Tresting DataSet](https://drive.google.com/drive/folders/1_z9QFKIpvFVG7ktZIoyhFBiRiWOVtgAJ?usp=sharing)
 
-[Trained Model](https://drive.google.com/file/d/1dyrzLzyYJ3s2fxViKydVnNjXAaypOtvq/view?usp=sharing)
+[Trained Model](https://drive.google.com/file/d/1PnQo959EaZ7o9uWq3-e0QgHo7j4ocH7e/view?usp=sharing)
